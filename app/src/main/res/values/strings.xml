@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QZYstart</string>
+    <string name="choose_function">选择功能</string>
+    <string name="send_message">发送消息</string>
+
+    <string name="favorites">喜欢</string>
+    <string name="music">音乐</string>
+    <string name="places">地点</string>
+    <string name="business">业务</string>
+
+</resources>
